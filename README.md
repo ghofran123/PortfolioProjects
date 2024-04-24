@@ -6,8 +6,8 @@ Welcome to my Data Analyst Portfolio Project Repository! Here you'll find a coll
 1. **[COVID-19 Data Exploration](https://github.com/ghofran123/PortfolioProjects/tree/main/COVID%20Data%20exploration)**:
 
    - **Folder:** `COVID-19 Data Exploration`
-     - `CovidDeaths..xlsx`: Raw COVID-19 deaths data file.
-     - `CovidVaccinations..xlsx`: Raw COVID-19 Vaccinations data file.
+     - `CovidDeaths.xlsx`: Raw COVID-19 deaths data file.
+     - `CovidVaccinations.xlsx`: Raw COVID-19 Vaccinations data file.
      - `covid_data_exploration.sql`: SQL file containing queries for exploring COVID-19 data.
 
 2. **[Nashville Housing Data Cleaning](https://github.com/ghofran123/PortfolioProjects/tree/main/Nashville%20Housing%20Data%20Cleaning)**:
