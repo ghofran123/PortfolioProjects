@@ -16,16 +16,24 @@ Welcome to my Data Analyst Portfolio Project Repository! Here you'll find a coll
      - `nashville_housing_data.xlsx`: Raw Nashville housing data file.
      - `nashville_housing_data_cleaning.sql`: SQL file containing queries for cleaning Nashville housing data.
 
-3. **[Movie Dataset Analysis](link-to-movie-project)**:
+3. **[Movie Dataset Analysis](https://github.com/ghofran123/PortfolioProjects/tree/main/Movies%20Data%20Correlation%20in%20Python)**:
    - **Folder:** `Movie Dataset Analysis`
      - `movie_dataset.csv`: Raw movie dataset file.
      - `movie_correlation_analysis.py`: Python file for studying correlation in the movie dataset.
-     
+
+4.  **[Marketplace Sales Analysis](https://github.com/ghofran123/PortfolioProjects/tree/main/Marketplace%20Sales%20analysis)**:
+   - **Folder:** `Marketplace Sales Analysis`
+     - `Online Sales Data.csv`:  Raw sales data file.
+     - `Sales Expolartory Data Analysis.sql`: SQL file containing exploratory data analysis queries.
+     - `Marketplace sales analysis.pbix` : Power BI dashboard visualizing key sales insights and performance metrics.
+
+Technologies Used
 ## Technologies Used:
 
 - SQL
 - Excel
 - Python
+- Power BI
 
 ## How to Navigate:
 
