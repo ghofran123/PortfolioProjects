@@ -1,5 +1,5 @@
 # Data Explorations Projects
-Welcome to my Data Analyst Portfolio Project Repository! Here you'll find a collection of projects showcasing my skills and experience in data analysis.
+Exploratory data analysis projects showcasing end-to-end data cleaning, processing, and insight discovery using SQL and Python.
 
 ## Projects Included:
 
